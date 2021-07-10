@@ -1,0 +1,18 @@
+.App {
+    margin: 10px 0px 0px 10px;
+    width: 800px;
+}
+
+.controller {
+    text-align: right;
+    padding-top: 20px;
+}
+
+.control-button{
+    width: 70px;
+    height: 70px;
+}
+
+.controller :first-child{
+    margin-right: 5px;
+}

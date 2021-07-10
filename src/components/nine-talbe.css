@@ -1,0 +1,11 @@
+.nine-table {
+    display: table;
+}
+
+.nine-table-row {
+    display: table-row;
+}
+
+.nine-table-item {
+    display: table-cell;
+}
