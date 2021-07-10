@@ -1,1 +1,3 @@
 # Sudoku-React-TypeScript
+
+ReactとTypeScriptの勉強題材として数独を解くアプリを作る
